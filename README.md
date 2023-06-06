@@ -1,11 +1,1 @@
-- 👋 Hi, I’m @elysiamori
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 
-
-<!---
-elysiamori/elysiamori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, my name is Mori. I am interested in the world of coding, especially in the back-end web development section. I want to explore many programming languages. I am now interested in php laravel and python Django
