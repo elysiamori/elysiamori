@@ -55,7 +55,9 @@ I am interested in programming, especially in the field of backend web developme
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Most Used Language
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elysiamori&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack" />
+### Most Used Languages
+|Most Used Languages|Summary Card|
+|---|---|
+|<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elysiamori&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack" />|<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elysiamori&theme=tokyonight"/>|
 
 
