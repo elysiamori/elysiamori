@@ -1,7 +1,9 @@
 # Hi , my name is Valdy👋
 I am interested in programming, especially in the field of backend web development. I want to explore many programming languages.
-- Informatics 🧑‍💻
-- Ungraduate Student at Sultan Ageng Tirtayasa University
+
+- Valdy Ramadhan 
+- `Informatics` 🧑‍💻
+- Ungraduate Student at `Sultan Ageng Tirtayasa University`
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -30,7 +32,7 @@ I am interested in programming, especially in the field of backend web developme
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-#### Database
+#### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
