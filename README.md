@@ -1,5 +1,7 @@
 # Hi , my name is Valdy👋
 I am interested in programming, especially in the field of backend web development. I want to explore many programming languages.
+- Informatics 🧑‍💻
+- Ungraduate Student at Sultan Ageng Tirtayasa University
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
