@@ -4,7 +4,12 @@ I am interested in programming, especially in the field of backend web developme
 - Valdy Ramadhan 
 - `Informatics` 🧑‍💻
 - Ungraduate Student at `Sultan Ageng Tirtayasa University`
+### My Favorite Tools
+![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)
+![Goo](https://img.shields.io/badge/Code-Go-blue?style=for-the-badge&logo=Go)
+![IDE](https://img.shields.io/badge/IDE-VSCode-blue?style=for-the-badge&logo=visual%20studio%20code)
 ### Online Studied
+![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 ![freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![Progate](https://img.shields.io/badge/Progate-380953?style=for-the-badge&logo=progate&logoColor=white)
