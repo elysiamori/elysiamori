@@ -1,6 +1,5 @@
 # Hi , my name is Valdy👋
 I am interested in programming, especially in the field of backend web development. I want to explore many programming languages.
-
 - Valdy Ramadhan 
 - `Informatics` 🧑‍💻
 - Ungraduate Student at `Sultan Ageng Tirtayasa University`
@@ -8,6 +7,9 @@ I am interested in programming, especially in the field of backend web developme
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)
 ![Goo](https://img.shields.io/badge/Code-Go-blue?style=for-the-badge&logo=Go)
 ![IDE](https://img.shields.io/badge/IDE-VSCode-blue?style=for-the-badge&logo=visual%20studio%20code)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### Online Studied
 ![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
