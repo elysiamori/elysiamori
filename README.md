@@ -2,7 +2,7 @@
 I am interested in programming, especially in the field of backend web development. I want to explore many programming languages.
 - Valdy Ramadhan 
 - `Informatics` 🧑‍💻
-- Ungraduate Student at `Sultan Ageng Tirtayasa University`
+- Software Developer and Data Engineer
 ### My Favorite Tools
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)
 ![Goo](https://img.shields.io/badge/Code-Go-blue?style=for-the-badge&logo=Go)
