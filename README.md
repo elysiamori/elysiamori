@@ -6,7 +6,7 @@ I am interested in programming, especially in the field of backend web developme
 ### My Favorite Tools
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)
 ![Goo](https://img.shields.io/badge/Code-Go-blue?style=for-the-badge&logo=Go)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![IDE](https://img.shields.io/badge/IDE-VSCode-blue?style=for-the-badge&logo=visual%20studio%20code)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
