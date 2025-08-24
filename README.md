@@ -6,6 +6,7 @@ I am interested in programming, especially in the field of backend web developme
 ### My Favorite Tools
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)
 ![Goo](https://img.shields.io/badge/Code-Go-blue?style=for-the-badge&logo=Go)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python)
 ![IDE](https://img.shields.io/badge/IDE-VSCode-blue?style=for-the-badge&logo=visual%20studio%20code)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -24,7 +25,7 @@ I am interested in programming, especially in the field of backend web developme
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 #### Front-End Stack🎨
@@ -36,6 +37,7 @@ I am interested in programming, especially in the field of backend web developme
 
 #### Back-End Stack⚙️
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
